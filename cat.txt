@@ -3,3 +3,7 @@
 #subscription-userinfo: expire=86877705600; total=10995116277760; used=0
 #profile-web-page-url: https://t.me/halyava_vpnx
 #announce: 👲 Партия выдать тебе кошка жена + полный миска рис
+
+vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@150.241.103.27:8443?type=tcp&security=reality&pbk=kt-3Y5U6yLWiLB_RijhceKo01lYAVosWRZbhS05YpCY&fp=safari&sni=yourcloud.ldtp.com&sid=7d6203949764f921&flow=xtls-rprx-vision#🇨🇳 Китай #1
+vless://dbfa97b8-f4fb-4687-96dc-a5a2aebfae11@2.26.2.173:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=nl01.port-server.online&pbk=aG121VHPQfsuK_DYqAxQkh6moKXKqYQT2JFxNDjFBjo&sid=44cac987d1070b5b#🇨🇳 Китай #1
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@62.60.155.0:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=telegraph.co.uk&pbk=YD3G553bQP0uWuyYDY9ZvhLCmfF9tmKUo8MRuALEFUw&sid=deee73#🇰🇵 Северная корея #1
