@@ -4,9 +4,9 @@
 #profile-web-page-url: https://t.me/halyava_vpnx
 #announce: 👲 Партия выдать тебе кошка жена + полный миска рис
 
-vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@150.241.103.27:8443?type=tcp&security=reality&pbk=kt-3Y5U6yLWiLB_RijhceKo01lYAVosWRZbhS05YpCY&fp=safari&sni=yourcloud.ldtp.com&sid=7d6203949764f921&flow=xtls-rprx-vision#🇨🇳 Китай #1
-vless://dbfa97b8-f4fb-4687-96dc-a5a2aebfae11@2.26.2.173:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=nl01.port-server.online&pbk=aG121VHPQfsuK_DYqAxQkh6moKXKqYQT2JFxNDjFBjo&sid=44cac987d1070b5b#🇨🇳 Китай #1
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@62.60.155.0:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=telegraph.co.uk&pbk=YD3G553bQP0uWuyYDY9ZvhLCmfF9tmKUo8MRuALEFUw&sid=deee73#🇰🇵 Северная корея #1
+vless://cf30deec-917f-4b1a-bb01-c48527cbc83a@213.176.64.235:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=nl.fast-cone.com&pbk=JZ-JMdenLtpZb6J991KB0-3T92rACohEpDtqt2M--hs&sid=17#🇨🇳 Китай #1
+vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?type=tcp&headerType=none&security=reality&fp=firefox&sni=www.samsung.com&pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&sid=05fdaa8a05be46a9#🇨🇳 Китай #2
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.163:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=storage.yandex.net&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#🇰🇵 Северная корея #1
 vless://3283529b-3bc4-4e15-803a-7d5751a3df07@rubr1.cheburnetnastalgia1998.com:50053?type=grpc&security=reality&pbk=X87ukWYsXHjmc-s4vDX0ph6sUoUklkFdtL_lXthn-z0&fp=firefox&sni=rubr1.cheburnetnastalgia1998.com&sid=75197d0b742bdbf5&path=/#🇰🇵 Северная корея #2
 vless://3283529b-3bc4-4e15-803a-7d5751a3df07@rubr2.cheburnetnastalgia1998.com:50052?type=grpc&security=reality&pbk=_C-DUSjLX_8EwHIMKczodo3Joqqg5iK-__8B104YCl4&fp=firefox&sni=rubr2.cheburnetnastalgia1998.com&sid=f519aea63a602590&path=/#🇮🇷 Иран #1
 vless://3283529b-3bc4-4e15-803a-7d5751a3df07@rubr2.cheburnetnastalgia1998.com:50058?type=grpc&security=reality&pbk=NlobQy5lynlSGU3k_XOEvri7mkZpvVN6oUZQ6qZoaUY&fp=firefox&sni=rubr2.cheburnetnastalgia1998.com&sid=2db698da5a81d4e6&path=/#🇮🇷 Иран #2
