@@ -5,9 +5,9 @@
 #announce: 👲 Партия выдать тебе кошка жена + полный миска рис 
 
 vless://cb68eec0-8505-40c6-9e87-68364a51162b@154.222.9.208:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=storage.yandex.net&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=8d3293f0066e129a#🇨🇳 Китай #1
-vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.195.228.124:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=storage.yandex.net&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=f45c9665f3261108#🇨🇳 Китай #1
-vless://0047a8bc-0025-4d45-899b-c75c669f3ede@154.84.171.253:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=storage.yandex.net&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&sid=6f15101ff2cc4887#🇰🇵 Северная корея #1
-vless://b972123b-7aae-47f5-a46d-2684a6ef7058@45.198.96.238:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=storage.yandex.net&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&sid=764f497dda21c4fc#🇰🇵 Северная корея #2
+vless://3106ff13-51fb-489f-a082-5669ad7a6f13@89.124.119.84:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=nl.crunch-crunch.com&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&sid=ea1058117be12087#🇨🇳 Китай #2
+vless://8550b9eb-8e40-459a-a68e-1819fb630b66@85.193.91.186:7443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=google.com&pbk=-S6O4C1XJeA-ooqklOHT2WHiEPLckenId_JQNMs1-Us#🇰🇵 Северная корея #1
+vless://8550b9eb-8e40-459a-a68e-1819fb630b66@85.193.91.186:9443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=google.com&pbk=-S6O4C1XJeA-ooqklOHT2WHiEPLckenId_JQNMs1-Us#🇰🇵 Северная корея #2
 vless://a1472a7d-ca70-4490-a5a5-81537599861c@45.196.31.7:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=storage.yandex.net&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=e0ef3d5c0aacb615#🇮🇷 Иран #1
 vless://1d6db61e-526b-473e-bb94-214241fcb050@de3.s812331.shop:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=de3.s812331.shop&pbk=GYgVbCfTSjEtPzk4UrXicNTOWwVKGc45E42eJkNYWR0&sid=5d4476ed0d5e6c7a#🇮🇷 Иран #2
 vless://1d6db61e-526b-473e-bb94-214241fcb050@pl2.s812331.shop:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=pl2.s812331.shop&pbk=clISdI1XP4jQrqKfeFVmCn_X3Z8RM-INBoXy4CE1K28&sid=880a75ddc6acdd48#🇬🇧 Остров Эпштейна #1
