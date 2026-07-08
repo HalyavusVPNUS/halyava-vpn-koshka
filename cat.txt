@@ -2,7 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: expire=86877705600; total=10995116277760; used=0
 #profile-web-page-url: https://t.me/halyava_vpnx
-#announce: 👲 Партия выдать тебе кошка жена + полный миска рис
+#announce: 👲 Партия выдать тебе кошка жена + полный миска рис 
 
 vless://cb68eec0-8505-40c6-9e87-68364a51162b@154.222.9.208:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=storage.yandex.net&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=8d3293f0066e129a#🇨🇳 Китай #1
 vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.195.228.124:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=storage.yandex.net&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=f45c9665f3261108#🇨🇳 Китай #1
